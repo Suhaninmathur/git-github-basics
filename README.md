@@ -18,7 +18,3 @@
 | git pull | Download from GitHub |
 | git clone | Copy a repository |
 
-## Practice
-Created this repository as part of 
-ONYATRIPS Builder's Program 2026 - 
-Git & GitHub Basics Training.
